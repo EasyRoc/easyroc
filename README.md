@@ -20,4 +20,4 @@
 
 ## Connect
 
-欢迎查看我的仓库，也欢迎通过 GitHub或者roceasy@outlook.com与我交流。
+欢迎查看我的仓库，也欢迎通过roceasy@outlook.com与我交流。
