@@ -20,4 +20,6 @@
 
 ## Connect
 
-欢迎查看我的仓库，也欢迎通过roceasy@outlook.com与我交流。
+欢迎查看我的仓库，也欢迎通过 roceasy@outlook.com 或 GitHub 与我交流。
+
+- 小红书：[EasyRoc](https://www.xiaohongshu.com/user/profile/60a8983e000000000100a62b)
